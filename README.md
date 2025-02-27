@@ -45,7 +45,10 @@ Datatech, an **edtech company**, is analyzing its **student enrollment funnel** 
 
 ## 📢 Key Takeaways
 ✅ **23.33% of students** who enrolled **completed** the course.
+
 ✅ **BTech students** have a **higher completion rate (25%)** than **BCom students (20%)**.
+
 ✅ **BTech students** complete the course **faster (8.36 days)** compared to **BCom students (9.53 days)**.
+
 
 🚀 **Optimizing the learning experience can further boost completion rates!**
